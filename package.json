@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Iamproplayer7/jsinsim#readme",
   "dependencies": {
     "bufferlist": "^0.1.0",
-    "ezstruct": "^0.0.3"
+    "ezstruct": "^0.0.3",
+    "ini": "^3.0.1"
   }
 }
